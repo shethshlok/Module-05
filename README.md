@@ -6,3 +6,5 @@ I am planning to work on a website with you guys.
 Gerardo is going to take care of the Menu section of the website.
 
 This project is liscenced by Apache 2.0 license.
+
+This change is done by the contributer.
